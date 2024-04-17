@@ -1,2 +1,2 @@
- school-project-1
+# school-project-1
 la prima repository di esmpio
